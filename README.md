@@ -75,7 +75,7 @@ A JavaScript application for seamless file sharing over local networks.
 
 **Bachelor of Technology in Computer Engineering**
 - **Institution:** Don Bosco Institute of Technology (DBIT), Mumbai
-- **Duration:** 2023 - 2027
+- **Duration:** 2024 - 2027
 - **Affiliation:** University of Mumbai
 - **Focus Areas:** Software Development, Data Structures, Algorithms, Web Technologies
 
